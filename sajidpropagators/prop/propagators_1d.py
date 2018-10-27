@@ -3,6 +3,7 @@
 import numpy as np
 import numexpr as ne
 
+
 '''
 Exact propagation in 1D. 
 '''
